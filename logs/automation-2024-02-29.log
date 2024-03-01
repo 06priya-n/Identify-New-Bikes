@@ -1,0 +1,51 @@
+10:42:06.838 [main] INFO  factory.BaseClass - ----Giving Invalid Email Id----
+10:42:10.486 [main] INFO  factory.BaseClass - ----Extracting the Error Message Displayed----
+11:10:23.923 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Moving to New Bikes----
+11:11:22.517 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Extracting Upcoming Bikes Details----
+11:11:22.862 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Moved to Used Cars DropDown----
+11:11:25.111 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Extracting the Popular Model List ----
+11:12:47.544 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Moving to New Bikes----
+11:13:12.349 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Moved to Used Cars DropDown----
+11:13:12.372 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Extracting the Popular Model List ----
+11:13:27.653 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Moving to New Bikes----
+11:14:02.679 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Extracting Upcoming Bikes Details----
+11:14:02.998 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Moved to Used Cars DropDown----
+11:14:13.208 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Extracting the Popular Model List ----
+11:17:39.856 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Moving to New Bikes----
+11:17:42.517 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Upcoming New Bikes Clicked----
+11:17:45.229 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Selected Honda from Dropdown----
+11:17:45.286 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Scrolling and clicking view more----
+11:17:50.352 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Extracting Upcoming Bikes Details----
+11:17:50.675 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Moved to Used Cars DropDown----
+11:18:00.571 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Clicked Used Cars in Chennai----
+11:18:00.873 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Extracting the Popular Model List ----
+11:18:00.943 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Extracted the Popular Model List ----
+11:18:33.627 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Extracted popular car details----
+11:18:37.456 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Clicked the Login/Signup Button----
+11:18:38.421 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Clicked Google Login----
+11:18:47.301 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Entered invalid email id and captured error message----
+11:19:40.012 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Moving to New Bikes----
+11:19:48.216 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Upcoming New Bikes Clicked----
+11:19:52.360 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Selected Honda from Dropdown----
+11:19:52.410 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Scrolling and clicking view more----
+11:19:55.528 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Extracting Upcoming Bikes Details----
+11:19:55.852 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Moved to Used Cars DropDown----
+11:20:10.333 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Clicked Used Cars in Chennai----
+11:20:10.617 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Extracting the Popular Model List ----
+11:20:10.667 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Extracted the Popular Model List ----
+11:20:48.012 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Extracted popular car details----
+11:20:51.551 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Clicked the Login/Signup Button----
+11:20:52.571 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Clicked Google Login----
+11:21:04.245 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Entered invalid email id and captured error message----
+11:22:20.332 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Moving to New Bikes----
+11:22:29.541 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Upcoming New Bikes Clicked----
+11:22:31.850 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Selected Honda from Dropdown----
+11:22:31.900 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Scrolling and clicking view more----
+11:22:35.787 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Extracting Upcoming Bikes Details----
+11:22:36.347 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Moved to Used Cars DropDown----
+11:22:40.981 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Clicked Used Cars in Chennai----
+11:22:41.205 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Extracting the Popular Model List ----
+11:22:41.243 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Extracted the Popular Model List ----
+11:23:13.121 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Extracted popular car details----
+11:23:16.871 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Clicked the Login/Signup Button----
+11:23:19.160 [main] INFO  testCase.TC_01_UpcomingNewBikes - ----Clicked Google Login----

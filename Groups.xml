@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<groups>
+	<run>
+		<include name="sanity"></include>
+		<include name="regression"></include>
+	</run>
+</groups>
+<listeners>
+<listener class-name="utilities.Extentreports"></listener>
+</listeners>
+  <test thread-count="5" name="Test">
+  <parameter name="os" value="Windows"></parameter>
+  <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCase.TC_01_UpcomingNewBikes"/>
+      <class name="testCase.TC_02_ExtractingUsedCars"/>
+      <class name="testCase.TC_03_LoginToGoogle"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+ 
